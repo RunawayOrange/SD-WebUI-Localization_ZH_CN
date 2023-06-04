@@ -12,17 +12,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 <details>
   <summary>新版本 webui 安装方法【点击展开】</summary>
 
-  ### 1. 通过官方扩展列表安装
-  此扩展可以在 **Extension** 选项卡里面通过加载官方插件列表直接安装
-  - 点击 `Extension` 选项卡，点击 `Avaliable` 子选项卡
-  - **取消勾选** `localization`，再把其他勾上，然后点击 **橙色按钮**，如下图
-  ![image](https://user-images.githubusercontent.com/21131439/220507253-65b91219-05ac-4932-a129-0fcd1e55ffaa.png)
-
-  - 在 `zh_CN Localization` 这一项的右边点击 `install`
-  ![image](https://user-images.githubusercontent.com/21131439/220507520-77eab48a-272b-4a06-a38a-ca721181092f.png)
-  - 安装完成，跳转到 [如何使用](#如何使用)
-
-  ### 2. 或者，通过网址安装
+  ### 通过网址安装
   - 点击 `Extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
   ```https://github.com/StormyOrange/SD-WebUI-Localization_ZH_CN
@@ -45,17 +35,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 <details>
   <summary>2022年旧版本 webui 安装方法【点击展开】</summary>
 
-  ### 1. 通过官方扩展列表安装【旧版】
-  此扩展可以在 **extension** 选项卡里面通过加载官方插件列表直接安装
-  - 点击 `extension` 选项卡，点击 `Avaliable` 子选项卡
-  - **取消勾选** `localization`，然后点击 **橙色按钮**，如下图
-  ![image](https://user-images.githubusercontent.com/60730393/202897956-484e2aaa-89db-4612-8e69-8d76458e23d0.png)  
-
-  - 在 `zh_CN Localization` 这一项的右边点击 `install`
-  ![image](https://user-images.githubusercontent.com/60730393/202897890-cd502e8d-dee0-48f8-835a-c3446cfb526c.png)
-  - 安装完成，跳转到 [如何使用](#如何使用)
-
-  ### 2. 或者，通过网址安装【旧版】
+  ### 通过网址安装【旧版】
   - 点击 `extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
   ```
