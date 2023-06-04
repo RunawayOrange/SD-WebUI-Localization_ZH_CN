@@ -1,4 +1,4 @@
-# stable-diffusion-webui-localization-zh_CN
+# Stable Diffusion Webui 简体中文语言包
 Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ## 简体中文(Simplified Chinese)
@@ -25,8 +25,8 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   ### 2. 或者，通过网址安装
   - 点击 `Extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
-  ```
-  https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
+  ```https://github.com/StormyOrange/SD-WebUI-Localization_ZH_CN
+  
   ```
   - 粘贴进 URL 栏，点击 `Install`，如图
   ![image](https://user-images.githubusercontent.com/60730393/202898107-e207d645-e446-456c-8a5b-6dd400eba480.png)  
@@ -59,14 +59,14 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - 点击 `extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
   ```
-  https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
+  https://github.com/StormyOrange/SD-WebUI-Localization_ZH_CN
   ```
   - 粘贴进 URL 栏，点击 `Install`，如图
   ![image](https://user-images.githubusercontent.com/60730393/202898107-e207d645-e446-456c-8a5b-6dd400eba480.png)  
   - 安装完成，跳转到 [如何使用](#如何使用)
 
   ### 3. 又或者，直接下载然后放在对应路径【旧版】
-  - [下载本 git 仓库](https://codeload.github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/zip/refs/heads/main)为 zip 档案
+  - [下载本 git 仓库](https://codeload.github.com/StormyOrange/SD-WebUI-Localization_ZH_CN/zip/refs/heads/main)为 zip 档案
   ![image](https://user-images.githubusercontent.com/60730393/202898203-8f4265ff-efc1-4cb4-887a-86af291c000e.png)  
 
   - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
@@ -113,7 +113,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - 在 `Extensions` 选项卡，确定已勾选本扩展☑️；如未勾选，勾选后点击**橙色按钮**启用本扩展。  
 
   **选择简体中文语言包（zh_CN）**  
-  - 在 `Settings` 选项卡中，找到 `Localization (requires restart)` 小项，然后在下拉选单中选中 `zh_CN` （如果没有就按一下🔄按钮），如图  
+  - 在 `Settings` 选项卡中，找到 `Localization (requires restart)` 小项，然后在下拉选单中选中 `简体中文语言包_StormyOrange` （如果没有就按一下🔄按钮），如图  
   ![image](https://user-images.githubusercontent.com/60730393/202900620-263cbdd3-0559-4b08-acd6-29570add8a3f.png)  
 
   - 然后按一下 页面顶部的  **橙色按钮** 保存设置，再按 页面底部的 **橙色按钮** 重启webUI  
