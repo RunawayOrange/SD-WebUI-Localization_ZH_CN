@@ -1,0 +1,1 @@
+# SD-WebUI-Localization_ZH_CN
