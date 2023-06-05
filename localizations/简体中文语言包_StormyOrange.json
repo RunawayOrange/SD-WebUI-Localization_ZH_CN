@@ -1,5 +1,4 @@
 {   
-<<<<<<< HEAD
     "Progressbar and preview update period": "进度条和预览的更新周期",
     "(in milliseconds)": "(单位：毫秒)",
     "Hide samplers in user interface": "在用户界面上隐藏采样算法",
@@ -33,8 +32,6 @@
     "Send pose to /openpose_editor_index for edit.": "将姿势发送到Openpose编辑器索引进行编辑.",
     "Models directory (if not default)": "模型目录 (如果不是默认)",
     "LyCORIS directory (if not default)": "LyCORIS目录 (如果不是默认)",
-=======
->>>>>>> 0469dea1dd52080710afd45b30b4ca57d6a0cbd0
     "Disable openpose edit": "禁用Openpose编辑",
     "Keep 3D models in VRAM between runs": "在运行期间将3D模型保存在显存中",
     "Keep settings persistent upon relaunch of webui": "重新启动WebUI时保持设置的持续性",
