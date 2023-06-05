@@ -16,18 +16,18 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - 点击 `Extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
   ```
-  [https://github.com/StormyOrange/SD-WebUI-Localization_ZH_CN]
+  https://github.com/StormyOrange/SD-WebUI-Localization_ZH_CN.git
   ```
   - 粘贴进 URL 栏，点击 `Install`，如图
-  ![image](https://user-images.githubusercontent.com/60730393/202898107-e207d645-e446-456c-8a5b-6dd400eba480.png)  
+  ![image](https://user-images.githubusercontent.com/127380484/243305270-5993e05f-204a-48cc-8f69-44d5dee58d54.png)  
   - 安装完成，跳转到 [如何使用](#如何使用)
 
-  ### 3. 直接下载然后放在对应路径
-  - [下载本 git 仓库](https://codeload.github.com/dtlnor/stable-diffusion-webui-localization-zh_CN/zip/refs/heads/main)为 zip 档案
-  ![image](https://user-images.githubusercontent.com/60730393/202898203-8f4265ff-efc1-4cb4-887a-86af291c000e.png)  
+  ### 直接下载然后放在对应路径
+  - [下载本 git 仓库](https://codeload.github.com/StormyOrange/SD-WebUI-Localization_ZH_CN/zip/refs/heads/main)为 zip 档案
+  ![image](https://user-images.githubusercontent.com/127380484/243308432-f30d8856-d38e-4b53-ad6e-e586bd900b10.png)  
 
   - 解压，并把文件夹放置在 webui 根目录下的 `extensions` 文件夹中，放好之后应该会如下图
-  ![image](https://user-images.githubusercontent.com/60730393/202898631-e4f6b3e2-b1d2-4258-b003-3142597fff3b.png)  
+  ![image](https://user-images.githubusercontent.com/127380484/243308437-fe7e904f-0431-4178-ba4a-f4b07eafe8cd.png)  
   - 安装完成，跳转到 [如何使用](#如何使用)
 
 </details>
@@ -39,13 +39,13 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - 点击 `extension` 选项卡，点击 `Install from URL` 子选项卡
   - 复制本 git 仓库网址：
   ```
-  https://github.com/StormyOrange/SD-WebUI-Localization_ZH_CN
+  https://github.com/StormyOrange/SD-WebUI-Localization_ZH_CN.git
   ```
   - 粘贴进 URL 栏，点击 `Install`，如图
-  ![image](https://user-images.githubusercontent.com/60730393/202898107-e207d645-e446-456c-8a5b-6dd400eba480.png)  
+  ![image](https://user-images.githubusercontent.com/127380484/243305270-5993e05f-204a-48cc-8f69-44d5dee58d54.png)  
   - 安装完成，跳转到 [如何使用](#如何使用)
 
-  ### 3. 直接下载然后放在对应路径【旧版】
+  ### 直接下载然后放在对应路径【旧版】
   - [下载本 git 仓库](https://github.com/StormyOrange/SD-WebUI-Localization_ZH_CN/zip/refs/heads/main)为 zip 档案
   ![image](https://user-images.githubusercontent.com/60730393/202898203-8f4265ff-efc1-4cb4-887a-86af291c000e.png)  
 
@@ -72,13 +72,13 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   **选择简体中文语言包（简体中文语言包_StormyOrange）**  
   
   - 在 `Settings` 选项卡中，找到 `User interface` 子选项  
-    ![image](https://user-images.githubusercontent.com/21131439/220509760-b8680fcd-9673-47e3-ba47-2ae0baf41d51.png)  
+    ![image](https://user-images.githubusercontent.com/127380484/243308448-9fc3a91d-88fa-41c8-a14f-0f3a1704d7ee.png)  
   
-  - 然后去页面最底部，找到 `Localization (requires restart)` 小项，找到在下拉选单中选中 `简体中文语言包_StormyOrange` （如果没有就按一下🔄按钮），如图  
-  ![image](https://user-images.githubusercontent.com/21131439/220510690-4445c0bc-b70b-4943-b69c-270faa7cffc1.png)  
+  - 然后去页面顶部，找到 `Localization (requires restart)` 小项，找到在下拉选单中选中 `简体中文语言包_StormyOrange` （如果没有就按一下🔄按钮），如图  
+  ![image](https://user-images.githubusercontent.com/127380484/243308468-30298343-b183-4124-ad8f-4bb4c0ce9802.png)  
 
   - 然后按一下 页面顶部左边的 **橙色 `Apply settings` 按钮** 保存设置，再按 右边的 **橙色 `Reload UI` 按钮** 重启webUI  
-  ![image](https://user-images.githubusercontent.com/21131439/220510486-90a1cf87-345b-48a7-8286-26dc02c0634e.png)  
+  ![image](https://user-images.githubusercontent.com/127380484/243308495-d4ee291d-3219-402b-9d5d-4fd5fa94590b.png)  
 
 </details>
 
