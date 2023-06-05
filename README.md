@@ -82,20 +82,3 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 
 </details>
 
-## 如何使用【旧版】
-
-<details>
-  <summary> 2022年旧版本 webui【点击展开】</summary>
-
-
-  **重启webUI以启用扩展**
-  - 在 `Settings` 选项卡，点击 **页面底部**的 **橙色按钮** 刷新扩展列表
-  - 在 `Extensions` 选项卡，确定已勾选本扩展☑️；如未勾选，勾选后点击**橙色按钮**启用本扩展。  
-
-  **选择简体中文语言包（简体中文语言包_StormyOrange）**  
-  - 在 `Settings` 选项卡中，找到 `Localization (requires restart)` 小项，然后在下拉选单中选中 `简体中文语言包_StormyOrange` （如果没有就按一下🔄按钮），如图  
-  ![image](https://user-images.githubusercontent.com/60730393/202900620-263cbdd3-0559-4b08-acd6-29570add8a3f.png)  
-
-  - 然后按一下 页面顶部的  **橙色按钮** 保存设置，再按 页面底部的 **橙色按钮** 重启webUI  
-  ![image](https://user-images.githubusercontent.com/60730393/202901412-26765c04-e69c-4beb-a56b-9e310ed273ca.png)  
-  ![image](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
