@@ -501,7 +501,7 @@
     "Auto-Adjust (WIP)": "自动调整 (施工中)",
     "Auto-contrasts the mask for the composite. If enabled, uses the low/high autocontrast cutoff schedules.": "对合成的遮罩进行自动对比度。如果启用，则使用低/高自动对比度的中断计划任务",
     "auto-delete imgs when video is ready": "视频就绪时自动删除图片",
-    "Auto-Photoshop-StableDiffusion-Plugin": "Photoshop外接植入插件",
+    "Auto-Photoshop-StableDiffusion-Plugin": "Photoshop外接API插件",
     "Auto-sized crop" : "自动按比例剪裁缩放",
     "auto" : "自动",
     "Auto" : "自动",
