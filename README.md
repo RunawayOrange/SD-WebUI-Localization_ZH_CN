@@ -64,15 +64,15 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - 重启webUI以确保扩展已经加载了  
   
   - 在 `Settings` 选项卡，点击 **页面右上角**的 **橙色 `Reload UI` 按钮** 刷新扩展列表  
-    ![image](https://user-images.githubusercontent.com/21131439/220509147-89b29802-2f9f-4db2-a21d-2dc99afa2d96.png)  
+    ![image](https://user-images.githubusercontent.com/127380484/243308495-d4ee291d-3219-402b-9d5d-4fd5fa94590b.png)  
 
   - 在 `Extensions` 选项卡，确定已勾选本扩展☑️；如未勾选，勾选后点击**橙色按钮**启用本扩展。  
-    ![image](https://user-images.githubusercontent.com/21131439/220509469-5c2af595-aece-4405-88f4-eb0638f8f22a.png)  
+    ![image](https://user-images.githubusercontent.com/127380484/243347906-0a9fee7b-1fb2-42c6-ade5-4d299de632cd.png)  
 
   **选择简体中文语言包（简体中文语言包_StormyOrange）**  
   
   - 在 `Settings` 选项卡中，找到 `User interface` 子选项  
-    ![image](https://user-images.githubusercontent.com/127380484/243308448-9fc3a91d-88fa-41c8-a14f-0f3a1704d7ee.png)  
+    ![image](https://user-images.githubusercontent.com/127380484/243348627-e063ffdf-f9ee-4e5c-8266-5fc5e3733978.png)  
   
   - 然后去页面顶部，找到 `Localization (requires restart)` 小项，找到在下拉选单中选中 `简体中文语言包_StormyOrange` （如果没有就按一下🔄按钮），如图  
   ![image](https://user-images.githubusercontent.com/127380484/243308468-30298343-b183-4124-ad8f-4bb4c0ce9802.png)  
