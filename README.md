@@ -57,8 +57,7 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
 
 ## 如何使用
 
-  > 2022 旧版 webui [点这里](#如何使用旧版)
-  
+    
   **确保扩展已经正确加载**  
   
   - 重启webUI以确保扩展已经加载了  
