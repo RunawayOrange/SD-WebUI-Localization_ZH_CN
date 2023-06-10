@@ -1,4 +1,5 @@
 {   
+    "Max generations (0 = all combinations - the batch count value is ignored)": "最大生成数（0=所有组合-忽略批次计数值）",
     "Progressbar and preview update period": "进度条和预览的更新周期",
     "(in milliseconds)": "(单位：毫秒)",
     "Hide samplers in user interface": "在用户界面上隐藏采样算法",
