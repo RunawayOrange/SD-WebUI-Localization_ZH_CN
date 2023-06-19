@@ -1,4 +1,5 @@
 {   
+    "Apply and quit": "应用并退出",
     "SAM Model": "自动语义分割模型",
     "Use CPU for SAM": "为语义分割使用CPU",
     "Auto SAM": "自动语义分割",
