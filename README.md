@@ -1,4 +1,4 @@
-# stable-diffusion-webui-localization-zh_CN
+# Stable Diffusion WebUI Localization Chinese Simplified
 Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ## 简体中文(Simplified Chinese)
@@ -65,16 +65,16 @@ Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diff
   - 在 `Settings` 选项卡，点击 **页面右上角**的 **橙色 `Reload UI` 按钮** 刷新扩展列表  
     ![image](https://user-images.githubusercontent.com/127380484/243308495-d4ee291d-3219-402b-9d5d-4fd5fa94590b.png)  
 
-  - 在 `Extensions` 选项卡，确定已勾选本扩展☑️；如未勾选，勾选后点击**橙色按钮**启用本扩展。  
+  - 在 `Extensions[扩展]` 选项卡，确定已勾选本扩展☑️；如未勾选，勾选后点击**橙色按钮**启用本扩展。  
     ![image](https://user-images.githubusercontent.com/127380484/243347906-0a9fee7b-1fb2-42c6-ade5-4d299de632cd.png)  
 
   **选择简体中文语言包（简体中文语言包_StormyOrange）**  
   
-  - 在 `Settings` 选项卡中，找到 `User interface` 子选项  
+  - 在 `Settings[设置]` 选项卡中，找到 `User interface[用户界面]` 子选项  
     ![image](https://user-images.githubusercontent.com/127380484/243348627-e063ffdf-f9ee-4e5c-8266-5fc5e3733978.png)  
   
-  - 然后去页面最底部，找到 `Localization (requires restart)` 小项，找到在下拉选单中选中 `zh_CN` （如果没有就按一下🔄按钮），如图  
-  ![image](https://user-images.githubusercontent.com/21131439/220510690-4445c0bc-b70b-4943-b69c-270faa7cffc1.png)  
+  - 然后去页面最顶部，找到 `Localization (requires restart)` 小项，找到在下拉选单中选中 `简体中文语言包_StormyOrange` （如果没有就按一下🔄按钮），如图  
+  ![image](https://user-images.githubusercontent.com/127380484/243308468-30298343-b183-4124-ad8f-4bb4c0ce9802.png)  
 
   - 然后按一下 页面顶部左边的 **橙色 `Apply settings` 按钮** 保存设置，再按 右边的 **橙色 `Reload UI` 按钮** 重启webUI  
   ![image](https://user-images.githubusercontent.com/127380484/243308495-d4ee291d-3219-402b-9d5d-4fd5fa94590b.png)  
