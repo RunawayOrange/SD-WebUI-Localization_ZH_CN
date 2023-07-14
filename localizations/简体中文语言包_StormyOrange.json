@@ -1,4 +1,5 @@
 {   
+    "Lo RA Prompt Helper": "LoRA提示词助手",
     "Reload trigger words from model information file.": "从模型信息文件中重新载入触发词",
     "Update the JSON data from user input.": "更新用户输入的JSON数据",
     "Save the trigger words to model information file.": "将触发词保存到模型信息文件中",
