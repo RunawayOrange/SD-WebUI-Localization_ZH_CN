@@ -1,4 +1,4 @@
-# stable-diffusion-webui-localization-Chinese Simplified
+# Stable Diffusion WebUI Localization Chinese Simplified
 Simplified Chinese translation extension , Used for [AUTOMATIC1111's stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ## 简体中文(Simplified Chinese)
