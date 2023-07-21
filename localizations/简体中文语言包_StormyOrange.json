@@ -1,4 +1,5 @@
 {   
+    "Time taken:": "耗时：",
     "Shuffle wildcards before use for more random outputs": "在用于更多随机输出之前打乱通配符",
     "Instruct-pix2pix": "像素转像素引导",
     "Take the focus off the prompt when working with a canvas": "在操作画布时，将焦点从提示上移开",
@@ -546,7 +547,7 @@
     "After enabling translation, please Wait until I am ready": "启用翻译后，请耐心等待，直到准备就绪。",
     "After Generation": "生成之后",
     "After": "之后",
-    "Alias from file": "文件名别称",
+    "Alias from file": "文件实际名称",
     "All models in this directory will receive the selected model's metadata": "此目录下所有模型都将被粘贴与选中模型完全相同的元数据",
     "All Reste": "全部重置",
     "all": "全部",
@@ -4713,7 +4714,7 @@
     "What to put inside the masked area before processing it with Stable Diffusion.": "在使用 Stable Diffusion 处理蒙版区域之前要在蒙版区域内放置什么",
     "When adding extra network such as Hypernetwork or Lora to prompt, use this multiplier for it.": "当添加扩展模型(如HyperNetwork或Lora)进行提示时, 请使用此乘数。",
     "When adding to prompt, refer to lora by": "添加到正面提示时, 通过以下方式参考LoRA",
-    "When adding to prompt, refer to Lora by": "在添加提示词时，请通过以下方式提及LoRA",
+    "When adding to prompt, refer to Lora by": "在添加LoRA到正面提示时，通过以下方式显示LoRA",
     "when checked, do not output a video" : "选中时，将不会导出视频",
     "when enabled, will re-extract video frames each run. When using video_input mode, the run will be instructed to write video frames to the drive. If you’ve already populated the frames needed, uncheck this box to skip past redundant extraction, and immediately start the render. If you have not extracted frames, you must run at least once with this box checked to write the necessary frames." : "启用时，将在每次运行时重新提取视频帧。使用video_input模式时，运行程序将视频帧写入驱动器。如果已经填充了所需的帧，请取消选中此框以跳过多余的提取，然后立即开始渲染。如果尚未提取帧，则必须在选中此框的情况下至少运行一次，以写入必要的帧。",
     "When reading generation parameters from text into UI (from PNG info or pasted text), do not change the selected model/checkpoint.": "从【图片信息】或【粘贴文本】自动读取并填写生成参数时,不更改已选定的checkpoint模型",
