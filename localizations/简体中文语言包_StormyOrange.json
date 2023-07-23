@@ -922,7 +922,7 @@
     "Checkpoint schedule" : "Checkpoint调度",
     "Checkpoint" : "Checkpoint模型",
     "checkpoint": "Checkpoint模型列表",
-    "Checkpoints to cache in RAM" : "保留在内存中的Checkpoint模型数量",
+    "Checkpoints to cache in RAM" : "缓存在内存中的Checkpoint模型数量",
     "Checkpoints": "Checkpoint模型",
     "Choose a number of terms from a list, in this case we choose two artists:": "从列表中选择一些术语，在本案例中我们选择两位艺术家：",
     "Choose latent sampling method": "选择Latent采样方法",
