@@ -23,7 +23,7 @@
     "Show description on card": "在模型预览图上显示说明",
     "Lora/Networks: use old method that takes longer when you have multiple Loras active and produces same results as kohya-ss/sd-webui-additional-networks extension": "LoRA/Networks：使用旧的添加LoRA的方法，当你用多个LoRA参与生成时，需要更长的时间，并产生与kohya ss的Additional Networks扩展插件相同的结果",
     "(triggers when a tensor with NaNs is produced in VAE; disabling the option in this case will result in a black square image)": "(当在变分自编码器(VAE)中产生具有NaNs的张量时触发；在这种情况下禁用该选项将导致黑图)",
-    "Automaticlly revert VAE to 32-bit floats": "自动将变分自编码器(VAE)恢复为32 浮点运算",
+    "Automaticlly revert VAE to 32-bit floats": "自动将变分自编码器(VAE)恢复为32位浮点运算",
     "Disable memmapping for loading .safetensors files.": "在加载.safetensors文件时禁用内存映射",
     "(fixes very slow loading speed in some cases)": "(修复某些情况下加载速度非常慢的问题)",
     "Text color for image grids": "拼图的文本颜色",
