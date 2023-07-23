@@ -1,4 +1,7 @@
 {   
+    "(from CivitAI)": "来自C站(CivitAI)",
+    "add prompt by image": "按图片添加提示词",
+    "use prompt and setting by image": "按图片使用提示词和设置",
     "Time taken:": "耗时：",
     "Shuffle wildcards before use for more random outputs": "在用于更多随机输出之前打乱通配符",
     "Instruct-pix2pix": "像素转像素引导",
