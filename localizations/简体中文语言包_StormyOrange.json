@@ -1,6 +1,6 @@
 {   
-    "R": "预留显存",
-    "Reserved: total amout of video memory allocated by the Torch library": "预留：Torch库分配的显存总量",
+    "R": "保留显存",
+    "Reserved: total amout of video memory allocated by the Torch library": "保留：Torch库分配的显存总量",
     "Sys": "系统显存",
     "A": "显存峰值",
     "Active: peak amount of video memory used during generation (excuding cached data)": "活动：生成期间使用的显存峰值（不包括缓存数据）",
