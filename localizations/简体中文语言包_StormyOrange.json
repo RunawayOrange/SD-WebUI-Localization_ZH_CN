@@ -1,4 +1,9 @@
 {   
+    "R": "预留显存",
+    "Reserved: total amout of video memory allocated by the Torch library": "预留：Torch库分配的显存总量",
+    "Sys": "系统显存",
+    "A": "显存峰值",
+    "Active: peak amount of video memory used during generation (excuding cached data)": "活动：生成期间使用的显存峰值（不包括缓存数据）",
     "Found new version for following models:": "为下列模型找到了新版本:",
     "[Download into SD]": "[下载到SD]",
     "New Version:": "新版本:",
@@ -4194,7 +4199,7 @@
     "Read generation parameters from prompt or last generation if prompt is empty into user interface.": "从提示词(prompt)中自动提取生成参数,\n若当前提示词为空则从上次的生成信息中读取\n允许将包含正面、负面、采样算法、步数、模型等\n信息的整段生成信息全部粘贴到提示词区域\n点击后可自动将对应信息填入并删除多余内容",
     "read metadata": "读取元数据",
     "Read parameters (prompt, etc...) from txt2img tab when making previews": "进行预览时,从文生图选项卡中读取参数(提示词等)",
-    "Read prompts from text boxes": "从文本框中读取提示",
+    "Read prompts from text boxes": "从提示词文本框中读取提示",
     "Read tabular commands": "从csv表格读取提示词",
     "Read tags from text files": "从文本文件读取提示词",
     "read_last_image": "读取上一个图像",
