@@ -862,7 +862,7 @@
     "blend": "混合",
     "Blend": "混合",
     "blendFactor = blendFactorMax - blendFactorSlope * cos((frame % tweening_frames_schedule) / (tweening_frames_schedule / 2))": "混合系数 = 混合系数最大值 - 混合系数斜率 × cos[(帧%tweening_frames_schedule）÷（tweening_frames_schedule ÷2)]",
-    "BLIP: maximum description length": "引导性语言图像预训练(BLIP): 最打描述长度",
+    "BLIP: maximum description length": "引导性语言图像预训练(BLIP): 最大描述长度",
     "BLIP: minimum description length": "引导性语言图像预训练(BLIP): 最小描述长度",
     "BLIP: num_beams": "引导性语言图像预训练(BLIP): num_beams",
     "Block ID": "区块(Block)ID",
