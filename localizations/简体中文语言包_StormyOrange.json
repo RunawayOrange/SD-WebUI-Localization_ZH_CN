@@ -1414,7 +1414,7 @@
     "Ctrl + wheel": "Ctrl + 鼠标滚轮",
     "Ctrl+up/down precision when editing (attention:1.1)": "使用 Ctrl + ↑/↓ 设置提示词权重 \"(tag:1.1)\" 时的数值步长",
     "Ctrl+up/down precision when editing <extra networks:0.9>": "使用 Ctrl + ↑/↓ 设置扩展模型权重 \"<extra networks:0.9>\" 时的数值步长",
-    "Ctrl+up/down word delimiters": "Ctrl+↑/↓时提示词的分界标识",
+    "Ctrl+up/down word delimiters": "Ctrl+↑/↓时提示词的分隔符",
     "cubism": "cubism (立体主义)",
     "Current Booru": "当前的 Booru",
     "Current Cache": "当前缓存目录",
