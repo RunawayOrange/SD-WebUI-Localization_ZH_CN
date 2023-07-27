@@ -5308,7 +5308,7 @@
     "The width of the focus region in pixels": "对焦区域的宽度 (单位: 像素)",
     "The width of the output images, in pixels (must be a multiple of 64)": "导出图像的宽度（像素，必须能整除于 64）",
     "The width of the Perlin sample. Lower values will make larger noise regions. Think of it as inverse brush stroke width. The greater this setting, the smaller details it will affect.": "Perlin采样的宽度。值越低，噪波区域越大。可以将其视为反向笔刷宽度。此设置越大，其影响的细节就越小。",
-    "the wiki for usage tips.": "关于使用技巧的攻略",
+    "the wiki for usage tips.": "使用技巧攻略",
     "The": "这个 ",
     "Theme": "主题",
     "then use": "然后使用",
