@@ -1,4 +1,5 @@
 {   
+    "(Will use & prefer the native activation keywords settable in the extra networks UI. Other functionality requires the": "(将使用&首选可在模型预览界面中设置本地激活关键字。其他功能需要",
     " Cinematography": "电影摄影", 
     " Photography": "摄影",
     " Setting": "设置",
@@ -1923,7 +1924,7 @@
     "extension name": "扩展名称",
     "Extension script for AUTOMATIC1111/stable-diffusion-webui to travel between prompts in latent space.": "一个在潜空间(Latent Space)中对不同提示词之间进行插值渐变,并生成其渐变过程的扩展脚本",
     "Extension State": "扩展插件状态",
-    "extension to be installed, but will work with it disabled.)": " 扩展, 但本选项功能可以在其禁用时生效)",
+    "extension to be installed, but will work with it disabled.)": " 扩展插件已安装, 但它禁用后仍可正常运行)",
     "extension to be installed.": "插件",
     "Extension version": "扩展版本",
     "Extension": "扩展插件",
