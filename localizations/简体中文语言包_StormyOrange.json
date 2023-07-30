@@ -1,4 +1,5 @@
 {   
+    "Feather": "羽化",
     " Cinematography": "电影摄影", 
     " Photography": "摄影",
     " Setting": "设置",
@@ -4177,7 +4178,7 @@
     "Read tags from text files": "从文本文件读取提示词",
     "read_last_image": "读取上一个图像",
     "read_last_settings": "读取上一次设置",
-    "README": "说明",
+    "README": "自述文件",
     "ready": "准备就绪",
     "reallybigname": "真正的大牌",
     "Reapply ranking after moving files": "移动文件后重新应用排名",
