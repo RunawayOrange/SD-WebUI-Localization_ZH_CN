@@ -5902,7 +5902,6 @@
     "Which algorithm to use to produce the image": "使用列表里的哪种采样算法进行图片生成",
     "Which face to swap (comma separated), start from 0": "要交换的脸部（用逗号分隔），从0开始",
     "White is Opaque": "白色不透明",
-    "white": "白色",
     "Whitelist": "白名单(启用tag自动填充)",
     "Whole picture": "全图",
     "Width 1": "宽度比例系数",
