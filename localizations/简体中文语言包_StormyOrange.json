@@ -3686,7 +3686,7 @@
     "openpose_full": "Openpose_full（骨骼提取：躯干+脸部+手部）",
     "openpose_hand": "Openpose_hand（骨骼提取：手部）",
     "openpose-editor": "Openpose人物骨骼编辑器",
-    "openpose": "Openpose（人物骨骼姿态提取）",
+    "openpose": "Openpose（骨骼提取：躯干）",
     "OpenPose": "OpenPose骨骼图",
     "Optical flow cadence": "生成间隔中启用光流法",
     "Optical flow generation": "光流法生成",
