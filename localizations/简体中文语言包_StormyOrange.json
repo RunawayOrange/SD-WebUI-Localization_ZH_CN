@@ -2695,7 +2695,7 @@
     "inpaint width": "重绘宽度",
     "inpaint_global_harmonious": "inpaint_global_harmonious（重绘-全局协调）",
     "inpaint_only": "inpaint_only（仅重绘）",
-    "inpaint_only+lama": "inpaint_only+LaMa（图像外画或物体去除）",
+    "inpaint_only+lama": "inpaint_only+LaMA（图像外扩或物体去除）",
     "inpaint": "局部重绘",
     "Inpaint": "局部重绘",
     "Inpaint+ Height": "绘制蒙版高度",
