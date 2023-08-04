@@ -4150,6 +4150,7 @@
     "Random number generator source.": "种子(seed)随机数生成器来源",
     "Random prompt": "随机提示词",
     "random": "随机",
+    "Random": "随机",
     "Randomize CFG Scale": "随机-无分类器引导量(CFG Scale)",
     "Randomize CLIP skip": "随机对比性语言图像预训练(CLIP)跳过层",
     "Randomize Height": "随机-高度",
