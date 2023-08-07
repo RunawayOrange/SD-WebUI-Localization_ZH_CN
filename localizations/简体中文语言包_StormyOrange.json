@@ -5513,8 +5513,6 @@
     "Time in ms to wait before triggering completion again (Requires restart)": "触发补全前的等待时间（单位：毫秒）【重启WebUI生效】",
     "Time in ms to wait before triggering completion again": "再次触发完成之前的等待时间【单位：毫秒】",
     "Time taken:": "耗时：",
-    "time_quadratic": "时间平方",
-    "time_uniform": "时间统一",
     "Time": "时间",
     "timestamp": "时间戳",
     "Tips": "提示",
