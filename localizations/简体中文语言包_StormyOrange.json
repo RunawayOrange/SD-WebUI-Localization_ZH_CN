@@ -1518,6 +1518,7 @@
     "Delete num :": "删除编号:",
     "delete or keep raw affected (interpolated/ upscaled depending on the UI section) png imgs": "删除或保留受影响的原始（根据UI部分进行插值/放大）png图像",
     "Delete Preset": "删除预设",
+    "Delete All Inputframes": "删除所有导入帧",
     "Delete Selected Skeleton (D key)": "删除选中骨架 (D键)",
     "delete": "删除",
     "Delete": "删除",
