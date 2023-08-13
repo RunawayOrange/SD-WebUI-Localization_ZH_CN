@@ -1510,7 +1510,7 @@
     "Default Image CFG": "默认图像引导系数 (CFG)",
     "default LoRA multiplier": "默认LoRA倍率",
     "Default magic prompt model": "默认魔法提示词模型",
-    "Default multiplier for extra networks": "模型预览图的默认显示倍数",
+    "Default multiplier for extra networks": "扩展模型添加到提示词文本框时，默认权重数值",
     "Default Options Button": "默认选项按钮",
     "Default scoring type": "默认评分类型",
     "Default Sort": "默认排序",
