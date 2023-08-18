@@ -3500,7 +3500,7 @@
     "Mov2Mov output path for vedio": "[视频转视频]生成视频的导出路径",
     "Mov2Mov output path for video": "视频转视频的文件导出路径",
     "mov2mov": "视频转视频",
-    "Mov2Mov": "Mov2Mov视频转视频设置",
+    "Mov2Mov": "视频转视频设置",
     "Move buttons copy instead of move": "将图库浏览器内所有\"移动\"按钮改为\"复制\"按钮",
     "move canvas left/right in pixels per frame": "向左/右移动每一帧画布（单位：像素）",
     "move canvas towards/away from view [speed set by FOV]": "从视场中拉近/推远画布 [速度由视场角（FOV）决定]",
