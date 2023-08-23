@@ -4852,7 +4852,7 @@
     "Search anything: Prompt, Size, Model, ...": "检索任意内容: 提示词, 尺寸, 模型, ...",
     "Search Booru": "搜索Booru",
     "Search by alias": "按照别称搜索",
-    "Search by translation": "按照翻译搜索",
+    "Search by translation": "按照翻译（中文）搜索",
     "Search for embeddings": "搜索Embeddings",
     "Search for hypernetworks": "搜索神经网络",
     "Search for Loras": "搜索LoRA模型",
