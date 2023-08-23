@@ -5369,7 +5369,7 @@
     "SubSeed": "第二种子",
     "Suffix": "后缀名",
     "Suggested weight": "建议权重",
-    "sum Twice:(A*(1-alpha)+B*alpha)*(1-beta)+C*beta": "相加两次:A×(1-α阿尔法)+B×α阿尔法)×(1-β贝塔)+C×β贝塔https://github.com/hako-mikan/sd-webui-lora-block-weight.git",
+    "sum Twice:(A*(1-alpha)+B*alpha)*(1-beta)+C*beta": "相加两次:A×(1-α阿尔法)+B×α阿尔法)×(1-β贝塔)+C×β贝塔",
     "Sum": "相加",
     "superfast": "超级快",
     "SuperMerger": "超级融合",
