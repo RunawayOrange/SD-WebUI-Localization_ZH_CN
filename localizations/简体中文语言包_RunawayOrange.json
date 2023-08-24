@@ -2337,7 +2337,7 @@
     "Generation Parameters": "生成参数",
     "Generation settings:": "一般设置:",
     "Generation TEST!!(Ignore Project directory and use the image and mask specified in the main UI)": "生成测试!!（忽略工程目录，使用用户界面中指定的图像和蒙版）",
-    "Generation": "生成界面",
+    "Generation": "生成面板",
     "Get Civitai Model Info by Model Page URL": "从 CivitAI 模型页面链接拉取模型信息",
     "Get comma-separated list of models (for XY Grid)": "生成逗号分隔的模型列表(方便X/Y表使用)",
     "Get dimensions from image on current img2img tab": "从在当前图生图选显卡上的图片获取尺寸",
