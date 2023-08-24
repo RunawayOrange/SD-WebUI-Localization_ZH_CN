@@ -4389,7 +4389,7 @@
     "reference_adain+attn": "reference_adain+attn (仅参考输入图 - 自适应实例规范 + 注意力链接)",
     "reference_only": "reference_only (仅参考输入图)",
     "Reference": "Reference参照",
-    "Refiner": "精炼器",
+    "Refiner": "精炼模型",
     "Reflect image around border": "从边缘镜像图像内容",
     "reflection will attempt to approximate the image and tile/repeat pixels": "反映将尝试概略估算图像和平铺/重复像素",
     "reflection": "反射",
