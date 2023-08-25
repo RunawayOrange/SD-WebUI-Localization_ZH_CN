@@ -1964,7 +1964,7 @@
     "eta (noise multiplier) for DDIM": "ETA（噪声倍数）-DDIM",
     "Eta for ancestral samplers": "ETA - 原始采样算法【建议值：0.67】",
     "Eta for DDIM": "ETA - DDIM算法",
-    "Eta for k-diffusion samplers": "K-Diffusionk采样算法的ETA",
+    "Eta for k-diffusion samplers": "K-Diffusion采样算法的ETA",
     "Eta noise seed delta": "ETA噪声种子变量(ENSD:ETA Noise Seed Delta)",
     "etc": "其他",
     "Euler Ancestral - very creative, each can get a completely different picture depending on step count, setting steps higher than 30-40 does not help": "Euler Ancestral-非常有创意,每个人都可以根据步数获得完全不同的画面,设置步数高于30-40时并无太大帮助。",
