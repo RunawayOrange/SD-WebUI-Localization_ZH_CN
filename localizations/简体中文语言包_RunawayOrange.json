@@ -647,6 +647,7 @@
     "allows keyframing different sd models. use *full* name as appears in ui dropdown": "允许为不同的Stable Diffusion模型设置关键帧。使用UI下拉列表中显示的*全称*",
     "Allows users to generate images based on prompts written in 50 different languages. It translates the prompts to english from a selected source language before generating the image.": "允许用户根据以50种不同语言编写的提示生成图像。在生成图像之前，它将提示词从选定的语言翻译成英文。",
     "Allows users to set a global weight for the negative prompt.": "允许用户为负面提示设置一个全局权重。",
+    "New Preset": "新预设",
     "Allows you to easily, or even completely automatically start using HTTPS.": "允许您轻松地，甚至完全自动地开始使用HTTPS。",
     "Allows you to include various shortcodes in your prompts. You can pull text from files, set up your own variables, process text through conditional functions, and so much more - it's like wildcards on steroids.": "允许你在提示词中包含各种短代码。 你可以从文件中提取文本、设置自己的变量、通过条件函数处理文本等等 - 就像是增强版的通配符",
     "Allows you to manually edit textual inversion embeddings using sliders.": "让你可以手动用滑条编辑风格迁移Textual Inversion的参数",
