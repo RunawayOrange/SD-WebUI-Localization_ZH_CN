@@ -3904,6 +3904,7 @@
     "Options": "选项",
     "or to CTRL+SHIFT": "或以CTRL+SHIFT",
     "or, manually enhance the image": "↓手动增强图像↓",
+    "Styles allow you to add custom text to prompt. Use the {prompt} token in style text, and it will be replaced with user's prompt when applying style. Otherwise, style's text will be added to the end of the prompt.": "提示词预设允许您添加自定义文：在预设文本中使用 {prompt} 词元，应用预设时它将被替换为用户的提示。 否则，预设的文本将添加到已有提示词的末尾",
     "or": "或",
     "OR": "或",
     "Order": "顺序",
