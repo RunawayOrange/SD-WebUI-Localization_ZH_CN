@@ -2082,7 +2082,7 @@
     "Extra network card width": "扩展模型卡牌宽度",
     "Extra networks separator": "扩展模型分割符号",
     "Extra networks tab order": "扩展模型类型选项卡顺序",
-    "Extra Networks": "模型封面图设置",
+    "Extra Networks": "模型封面设置",
     "Extra noise multiplier for img2img and hires fix": "图生图和高分辨率修复的额外噪声倍数",
     "Extra path to scan for ControlNet models (e.g. training output directory)": "检索 ControlNet 模型的附加目录（例如：训练导出目录）",
     "Extra path to scan for LoRA models (e.g. training output directory)": "检索 LoRA 模型的附加目录（例如：训练导出目录）",
