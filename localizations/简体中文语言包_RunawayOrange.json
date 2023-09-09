@@ -102,7 +102,7 @@
     "(CF7) Checkpoint format": "(CF7) 模型格式",
     "(CF8) Checkpoint format": "(CF8) 模型格式",
     "(CF9) Checkpoint format": "(CF9) 模型格式",
-    "(changes seeds drastically; use CPU to produce the same picture across different videocard vendors; use NV to produce same picture as on NVidia videocards)": "（种子发生剧烈变化；CPU：在不同的显卡供应商之间复现相同的图片；“英伟达”：复现与NVidia显卡相同的图片）",
+    "(changes seeds drastically; use CPU to produce the same picture across different videocard vendors; use NV to produce same picture as on NVidia videocards)": "（种子发生剧烈变化；CPU = 在不同的显卡供应商之间复现相同的图片；英伟达 = 复现与NVidia显卡相同的图片）",
     "(changes seeds drastically; use CPU to produce the same picture across different videocard vendors)": "（种子发生剧烈变化；选择CPU可以实现在不同的显卡供应商之间产生相同的图像）",
     "(changes seeds drastically; use CPU to produce the same picture across different vidocard vendors)": "（种子发生剧烈变化；选择CPU可以实现在不同的显卡供应商之间产生相同的图像）",
     "(Chants are longer prompt presets)": "（Chants是较长的提示预设）",
