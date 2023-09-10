@@ -5337,6 +5337,7 @@
     "sigma tmin": "∑ 西格玛-TMin",    
     "similar": "类似",
     "Tile/Blur": "Tile/Blur分块/模糊",
+    "blur_gaussian": "Blur_Gaussian（高斯模糊）",
     "InstructP2P": "InstructP2P指导",
     "Recolor": "Recolor重新上色",
     "Revision": "Revision修订",
