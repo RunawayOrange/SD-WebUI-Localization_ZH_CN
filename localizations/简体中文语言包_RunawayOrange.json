@@ -6489,7 +6489,7 @@
     "Weight 4": "权重4️⃣",
     "Weight 5": "权重5️⃣",
     "Weight decay for the Adam optimizer, duh.": "Adam优化器的权重衰减",
-    "Weight for cond match (grad/replace-grad mode)": "用于匹配文字调节(cond)的权重 (梯度/取代模式)",
+    "Weight for cond match (grad/replace-grad mode)": "用于匹配文字调节(Cond)的权重 (梯度/取代模式)",
     "Weight for cond match": "用于匹配文字调节(cond)的权重",
     "Weight for latent match (grad/replace-grad mode)": "用于匹配隐变量(Latent)的权重 (梯度/取代模式)",
     "Weight for latent match": "用于匹配隐变量(Latent)的权重",
