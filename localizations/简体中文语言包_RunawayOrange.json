@@ -1140,6 +1140,7 @@
     "Civitai": "CivitAI",
     "ckp": "Checkpoint",
     "ckpt": "Checkpoint",
+    "File:": "文件：",
     "Class Batch Size": "Class每批张数",
     "Class Generation Schedulers": "Class生成调度程序",
     "Class Image Generation": "Class图像-生成",
