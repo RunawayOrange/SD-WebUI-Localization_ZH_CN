@@ -264,7 +264,7 @@
     "[Segmentation]": "[语义分割]",
     "[Shuffle]": "[像素重组]",
     "[Tile/Blur]": "[分块模糊]",
-    "[Inpaint]": "[修复重绘]",
+    "[Inpaint]": "[重绘修复]",
     "[InstructP2P]": "[指导P2P]",
     "[Reference]": "[参照]",
     "[Recolor]": "[重新上色]",
