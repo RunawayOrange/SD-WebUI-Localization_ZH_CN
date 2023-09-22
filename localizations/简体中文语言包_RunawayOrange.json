@@ -3250,7 +3250,7 @@
     "Latent (bicubic)": "Latent(bicubic两次立方)",
     "Latent (nearest-exact)": "Latent (nearest-exact邻近精确)",
     "Latent (nearest)": "Latent(nearest邻近)",
-    "Latent Couple": "Latent Couple-分区构图",
+    "Latent Couple": "分区提示词Latent Couple",
     "Latent Mirror mode": "隐变量(Latent)-镜像模式",
     "Latent Mirror style": "隐变量(Latent)-镜像风格",
     "Latent Mirroring": "Latent Mirroring潜变量镜像",
