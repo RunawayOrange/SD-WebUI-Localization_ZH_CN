@@ -6733,6 +6733,7 @@
     "Write image to a directory (default - log/images) and generation parameters into csv file.": "将图像写入目录(默认 - log/images)并将生成参数写入csv表格文件",
     "write merged model ID to": "将融合模型 ID 写入到",
     "Write prompts to file: Create a new .txt file for every batch containing the prompt template as well as the generated prompts.": "将提示写入文件：为包含提示模板以及生成的提示的每个批次创建一个新的.txt文件。",
+    "(SD-WebUI v1.5 and higher treats LoCON's the same as LORA's, so they can be placed in the LORA folder.)": "（SD-WebUI v1.5 及更高版本将LoCON视为与LoRA相同，因此可以将它们放置在LoRA文件夹中）",
     "Write prompts to file": "将提示词写入文件",
     "Write raw prompt to image": "将原始提示写入图像",
     "x center axis for 2D angle/zoom *only*": "2D 旋转/缩放中 X 轴的中心点",
