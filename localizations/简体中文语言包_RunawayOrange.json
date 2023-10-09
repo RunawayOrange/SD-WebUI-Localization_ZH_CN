@@ -5311,7 +5311,7 @@
     "SDXL low aesthetic score": "Stable Diffusion XL 审美评分-低",
     "SDXL Styles": "风格选择器（SDXL Styles）",
     "SDXL": "SD XL",
-    "Seamless Image Fusion, along with vram efficient tiled vae script.": "无缝图像融合,配合显存优化过的分块变分自编码器(Tiled VAE)脚本",
+    "Seamless Image Fusion, along with vram efficient tiled vae script.": "无缝图像融合,配合显存优化过的分块变分自编码器（Tiled VAE）脚本",
     "Seamless large image regional generation and upscaling, along with vram-efficient tiled vae script.": "无缝超大图像区域生成和放大，以及高效的分别变分自编码器（VAE）脚本。",
     "Seams  denoise strenght": "接缝去噪强度",
     "Seams fix:": "接缝修复:",
