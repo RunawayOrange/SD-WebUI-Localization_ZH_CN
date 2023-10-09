@@ -5289,7 +5289,7 @@
     "sd-parseq manifest": "SD-parseq清单",
     "sd-web-ui-kitchen-theme": "Kitchen Theme界面美化",
     "sd-webui-3d-open-pose-editor": "3D Openpose Editor 3D骨骼编辑插件",
-    "sd-webui-additional-networks": "Additional Networks追加模型",
+    "sd-webui-additional-networks": "Additional Networks附加模型",
     "sd-webui-ar": "AR 图片长宽比设置插件",
     "sd-webui-bilingual-localization": "Bilingual Localization双语对照插件",
     "sd-webui-controlnet": "ControlNet控图插件",
