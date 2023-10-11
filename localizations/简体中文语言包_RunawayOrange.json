@@ -1975,7 +1975,7 @@
     "dw_openpose_full": "DW_OpenPose_full(二阶蒸馏法骨骼提取：躯干+脸部+手部)",
     "Dynamic Prompts enabled": "启用动态提示词",
     "Dynamic Prompts": "动态提示词（Dynamic Prompts）",
-    "Dynamic Thresholding (CFG Scale Fix)": "CFG动态阈值（Dynamic Thresholding: CFG Scale Fix）",
+    "Dynamic Thresholding (CFG Scale Fix)": "动态CFG阈值（Dynamic Thresholding: CFG Scale Fix）",
     "Dynamic Thresholding Advanced Options": "动态阈值处理高级选项",
     "dynamicprompts library is version 0.27.0": "版本为0.27.0的动态提示库 ",
     "Dystopian": "反乌托邦",
