@@ -4631,6 +4631,7 @@
     "Preset: refresh": "刷新预设",
     "Preset": "预设",
     "Presets": "预设",
+    "Preset Loader : preset override UI configuration.": "预设加载器：预设覆盖UI配置",
     "Prespective flip — Low VRAM pseudo-3D mode:": "透视翻转 — 低显存(VRAM)伪3D模式:",
     "Press enter to add new tag": "按回车键添加新Tag",
     "Pretrained VAE Name or Path": "预训练的变分自编码器(VAE)名称或者路径",
