@@ -1945,7 +1945,7 @@
     "Disable de-duplication of wildcards before processing.": "在处理通配符之前禁用重复数据删除功能",
     "Disable during hires pass": "在高分辨率修复过程中停用",
     "Disable dynamic prompts by unchecking this box.": "取消勾选来禁用动态提示词",
-    "Disable for additional passes": "禁用附加通行证",
+    "Disable for additional passes": "禁用附加通道",
     "Disable for Negative prompt.": "为负面提示词禁用本插件效果",
     "Disable function that you don't use": "禁用您不使用的功能",
     "Disable image browser (Reload UI required)": "禁用 Cozy 图库浏览器【重启WebUI生效】",
