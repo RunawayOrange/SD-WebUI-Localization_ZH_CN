@@ -5700,7 +5700,7 @@
     "Scale the learning rate by the number of GPUs, gradient accumulation steps, and batch size.": "通过 GPU 数量、梯度累加步数(gradient accumulation steps)和每批数量(batch size)来缩放学习率",
     "Scale to Fit (Inner Fit)": "缩放适配(向内适配)",
     "Scale to maximum dimension": "缩放到最大尺寸",
-    "Scale to": "像素缩放",
+    "Scale to": "自由缩放",
     "Scale": "倍数",
     "Scaled Dot Product Attention": "缩放点积注意力算法",
     "Scaling Settings": "偏移量设置",
