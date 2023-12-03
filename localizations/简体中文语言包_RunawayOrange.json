@@ -173,7 +173,7 @@
     "(method to encode image to latent (use in img2img, hires-fix or inpaint mask))": "【将图像编码转换隐变量(Latent)的方法（用于图生图高分辨率修复或重绘蒙版）】",
     "(minimal change in the generated picture)": "（生成的图片变化最小）",
     "(Model names [with file extension] or their hashes, separated by commas)": "【模型名称[带文件扩展名]或其哈希值，用逗号分隔】",
-    "(models in subdirectories like photo/sd15.ckpt will be listed as just sd15.ckpt)": "（像photo/SD15.ckpt这样的子目录中的模型将仅列为SD15.ckpt）",
+    "(models in subdirectories like photo/sd15.ckpt will be listed as just sd15.ckpt)": "（类似photo/SD15.ckpt这样的子目录中的模型将仅列为SD15.ckpt）",
     "(must be < sampling steps)": "（必须小于采样步数）",
     "(No Trigger Word)": "(无触发词)",
     "(noise multiplier; applies to Euler a and other samplers that have a in them)": "(噪声倍数；适用于Euler a和其他包含“a”的采样算法)",
