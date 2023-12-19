@@ -55,7 +55,7 @@
     "(0 = No limit)": "【0 = 无限制】",
     "(0 = no tiling)": "【0 = 无分块】",
     "(0: disable, -1: show all images. Too many images can cause lag)": "（0 = 禁用，-1 = 显示所有图像，图像太多会导致延迟）",
-    "(0=disable, higher=faster)": "【0 = 禁用, 较高=较快】",
+    "(0=disable, higher=faster)": "【0 = 禁用, 较高 = 较快】",
     "(1 = original size)": "【1 = 原大】",
     "(1) Face Detection": "1️⃣ 脸部识别",
     "(17 for best quality, up to 28 for smaller size)": "（最佳质量为17，较小尺寸最多为28）",
