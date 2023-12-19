@@ -6710,7 +6710,7 @@
     "The directory containing training images.": "包含训练图像的目录",
     "the directory in which your mask video is located.": "你所需要使用的视频蒙版路径",
     "The existing prompt and negative prompt fields are ignored.": "会使现有的正向提示词和负面提示词段被忽略。",
-    "The Fast and Simple FaceSwap Extension - v0.6.0-a2": "快速简单的换脸扩展插件-版本v0.6.0-阿尔法Ⅱ",
+    "The Fast and Simple FaceSwap Extension - v0.6.0-a2": "快速简单的换脸扩展插件 [版本v0.6.0-阿尔法Ⅱ]",
     "The following parameters are exposed in this keyframe: max frames as": "此关键帧中公开以下参数：最大帧数为",
     "The frames per second that the video will run at": "你所需要的视频帧数",
     "The Gender of the Person.": "人物的性别",
