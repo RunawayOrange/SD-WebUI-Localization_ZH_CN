@@ -1,5 +1,4 @@
 {   
-     "Reference Image Resize Mode": "调整参考图像大小模式",
     " Cinematography": "电影摄影", 
     " Photography": "摄影",
     " Setting": "设置",
@@ -5479,6 +5478,7 @@
     "Reference Control (enabled with image below)": "参考控制（通过下图启用）",
     "Reference Control Mode": "参考控制模式",
     "Reference Control Weight": "参考控制权重",
+    "Reference Image Resize Mode": "调整参考图像大小模式",
     "Reference Image": "参考图片",
     "Reference Type for Reference-Only": "Reference-Only的参考类型",
     "reference_adain": "reference_AdaIN (通过Adaptive Instance Normalization进行样式转换)",
