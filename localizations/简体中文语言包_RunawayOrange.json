@@ -2162,7 +2162,7 @@
     "Disable negative prompt": "禁用负面提示词",
     "Disable openpose edit": "禁用Openpose编辑",
     "Disable photopea edit": "禁用Photopea编辑",
-    "Disable prompt token counters": "禁用提示词元数量",
+    "Disable prompt token counters": "禁用提示词词元计数器",
     "Disable sorting of wildcards before processing.": "处理前禁用通配符排序",
     "Disable waves and gradiant background animations": "禁用波纹和背景渐变动画",
     "Disable waves and gradiant background": "禁用波纹和背景渐变效果",
