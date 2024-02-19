@@ -89,7 +89,7 @@
     "(A9) Primary": "(A9)主级",
     "(Add folder names that shouldn't be searched for wildcards, separated by comma.)": "（添加不需要搜索通配符的文件夹名称，并以逗号分隔）",
     "(alternative implementation for the above; used prior to 1.6.0 for DDIM sampler; ignored if the above is set; changes seeds)": "（上述的替代实现；在WebUI 1.6.0版本之前用于DDIM采样算法；如果设置了上述内容，则忽略；改变种子）",
-    "(alternative implementation for the above; used prior to 1.6.0 for DDIM sampler; overrides the above if set; WARNING: truncates negative prompt if it's too long; changes seeds)": "(alternative implementation for the above; used prior to 1.6.0 for DDIM sampler; overrides the above if set; WARNING: truncates negative prompt if it's too long; changes seeds)",
+    "(alternative implementation for the above; used prior to 1.6.0 for DDIM sampler; overrides the above if set; WARNING: truncates negative prompt if it's too long; changes seeds)": "（上述的替代实施，在WebUI 1.6.0版本之前用于 DDIM 采样算法；如果设置，则覆盖上述内容；警告：如果负面提示太长，则截断否定提示；更改种子）",
     "(amount of additional noise to counteract loss of detail during sampling; only applies to Euler, Heun, and DPM2)": "【用于抵消采样期间细节损失的额外噪声量；仅适用于 Euler、Heun 和 DPM2】",
     "(amount of additional noise to counteract loss of detail during sampling)": "【用于抵消采样期间细节损失的额外噪声量】",
     "(amount of stochasticity; only applies to Euler, Heun, and DPM2)": "【随机量：仅适用于 Euler、Heun和DPM2】",
