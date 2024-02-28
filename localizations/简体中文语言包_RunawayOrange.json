@@ -1428,7 +1428,6 @@
     "Chant filename": "Chant文件名",
     "Character Tags": "角色标签(Tags)",
     "Cheap neural network approximation. Very fast compared to VAE, but produces pictures with 4 times smaller horizontal/vertical resolution and lower quality.": "低配的神经网络近似值：与变分自编码器(VAE)相比，速度非常快，但生成的图片的水平/垂直分辨率要低4倍，质量较低。",
-    "Cheat Sheet": "备忘录",
     "Check Console log for Downloading Status": "检查控制台日志以查看下载信息",
     "Check console log window for detail, after clicking Scan button": "点击扫描按钮后，检查控制台日志窗口的详细信息",
     "check correctness of your merge expressions": "检查你的合并表达是否正确",
